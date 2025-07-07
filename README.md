@@ -13,7 +13,12 @@ git push
   <div style="flex: 1;">
     <!-- Left column content -->
     **Left Column**  
-    - Item A  
+    - ✅ For all future updates
+Whenever you make changes and want to push them, just run these:
+
+git add .
+git commit -m     "Your clear message describing what you changed"
+git push
     - Item B  
   </div>
   <div style="flex: 1;">
